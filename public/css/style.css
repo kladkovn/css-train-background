@@ -58,3 +58,102 @@ p {
   color: black;
   margin-bottom: 20px;
 }
+.task1{
+  background-color: green;
+}
+.task2{
+  background-image: url(/img/img-400x200.jpg);
+}
+.task3{
+  background: linear-gradient(180deg, yellow 0%, orange 30%, red 100%);
+}
+.task4{
+  background: radial-gradient(closest-side, #3f87a6, #ebf8e1, #f69d3c);
+}
+.task5{
+  background: conic-gradient(from 3.1416rad at 10% 50%, #e66465, #9198e5);
+}
+.task6{
+  background: repeat-x;
+}
+.task7{
+  background: repeat-y;
+}
+.task8{
+  background: no-repeat;
+}
+.task9{
+  background: space;
+}
+.task10{
+  background: round;
+}
+.task11{
+  background-attachment: scroll;
+}
+.task12{
+  background-attachment: fixed;
+}
+.task13{
+  background-attachment: local;
+}
+.task14{
+  background-position: center;
+}
+.task15{
+  background-position: top;
+}
+.task16{
+  background-position: bottom;
+}
+.task17{
+  background-position: left;
+}
+.task18{
+  background-position: right;
+}
+.task19{
+  background-position: 100px;
+}
+.task20{
+  background-size: auto;
+}
+.task21{
+  background-size: 600px;
+}
+.task22{
+  background-size: 50%;
+}
+.task23{
+  background-size: contain;
+}
+.task24{
+  background-size: cover;
+}
+.task25{
+  background-clip: border-box;
+}
+.task26{
+  background-clip: padding-box;
+}
+.task27{
+  -webkit-background-clip: text;
+}
+.task28{
+  background-origin: border-box;
+}
+.task29{
+  background-origin: padding-box;
+}
+.task30{
+  background-origin: content-box;
+}
+.task31{
+  border-image: linear-gradient(180deg, blue 0%, green 100%) 20 20 round;
+}
+.task32{
+  border-image: radial-gradient(red 5%, green 15%, blue 60%) 20 20 round;
+}
+.task33{
+  border-image-repeat: stretch;
+}
